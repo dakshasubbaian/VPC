@@ -2,7 +2,7 @@
 ## Ex.4 Deployment and configuration of a Private Cloud  in AWS
 
 ### NAME: DAKSHA SUBBAIAN
-#### REG NO: 212223230036
+### REG NO: 212223230036
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
